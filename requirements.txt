@@ -1,2 +1,9 @@
-scikit-learn
 beautifulsoup4
+ipython
+jupyter
+jupyterlab-git
+matplotlib
+nbstripout
+numpy
+scikit-learn
+seaborn
